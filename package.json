@@ -1,6 +1,6 @@
 {
     "name": "@oroce/typeorm-extension",
-    "version": "3.6.4-pg-schema.1",
+    "version": "3.6.4-pg-schema.2",
     "description": "A library to create/drop database, simple seeding data sets, ...",
     "author": {
         "name": "Peter Placzek",
