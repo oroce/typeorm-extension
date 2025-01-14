@@ -65,7 +65,7 @@ export default [
 
                         if (source.indexOf('..') !== -1) {
                             return {
-                                id: 'typeorm-extension',
+                                id: '@oroce/typeorm-extension',
                                 external: true
                             }
                         }
